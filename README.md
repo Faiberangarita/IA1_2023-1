@@ -1,5 +1,7 @@
 # Predicción de precios de los aguacates
-![Banner Avocado]()
+
+![Banner](https://github.com/Faiberangarita/IA1_2023-1/assets/55815692/cad9836b-7cd5-4312-a255-874087ed40b8)
+
 
 **Autores:** *Juan Guerrero, Lizeth Ropero, Faiber Angarita*
 
