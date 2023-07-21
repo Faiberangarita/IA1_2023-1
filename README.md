@@ -23,4 +23,4 @@ Decision Tree, Random Forest Regression, Support Vector Machine, StandarScaler y
 
 **Repositorio:** https://github.com/Faiberangarita/IA1_2023-1.git
 
-**Video:** Falta
+**Video:** https://youtu.be/C0A4cCHECl0
