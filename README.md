@@ -10,9 +10,13 @@ Desarrollar un sistema de IA basado en modelos de aprendizaje que pueda predecir
 
 ## Dataset
 El Dataset cuenta con tres tipos de aguacates :
+
 **4046** es el aguacate Hass de tamaño estandar.
+
 **4225** es el aguacate Hass de tamaño Grande.
+
 **4770** son los otros tipos de aguacates diferentes como Fuerte, Bacon, Zutano etc.
+
 **Link:** https://www.kaggle.com/datasets/neuromusic/avocado-prices
 
 ## Modelos implementados
