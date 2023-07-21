@@ -21,6 +21,4 @@ Decision Tree, Random Forest Regression, Support Vector Machine, StandarScaler y
 ## Enlaces
 **Notebook:** https://colab.research.google.com/drive/1Lmqqw4V9pYAoL9mIrmEz6SP4bm1_JrfV?usp=sharing
 
-**Repositorio:** https://github.com/Faiberangarita/IA1_2023-1.git
-
 **Video:** https://youtu.be/C0A4cCHECl0
